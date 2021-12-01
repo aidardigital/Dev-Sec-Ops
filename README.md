@@ -1,2 +1,2 @@
 # Dev-Ops
-Here I store Development Operations (DevOps) scripts and configurations
+Here I store Development Security Operations (DevSecOps) scripts and configurations
