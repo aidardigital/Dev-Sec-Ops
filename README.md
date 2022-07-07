@@ -28,6 +28,6 @@ Note: Here stored practical examples of Development Security Operations (DevSecO
 - DevSecOps Engineers
 - DevOps Engineers
 - Cyber Security Engineers
-- Developers
+- Software Developers
 - Software Engineers
 - IT Managers / CISO
