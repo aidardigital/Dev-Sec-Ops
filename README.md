@@ -21,13 +21,13 @@ Here I store Development Security Operations (DevSecOps) scripts and configurati
 
 **Description**
 
-- **DevOps** is a combination of software development and information technology operations that enables businesses to deliver applications at a faster pace. It brings together development and operations teams so there are fewer redundancies in the software development process.
+**DevOps** is a combination of software development and information technology operations that enables businesses to deliver applications at a faster pace. It brings together development and operations teams so there are fewer redundancies in the software development process.
 
-- **DevSecOps** is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
+**DevSecOps** is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
 
-- **DevOps** has revolutionized workplaces in many ways. The number of DevOps-related jobs are increasing, while its rank as an in-demand job.
+**DevOps** has revolutionized workplaces in many ways. The number of DevOps-related jobs are increasing, while its rank as an in-demand job.
 
-- **DevOps** is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+**DevOps** is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
 
 **Who might be interested in DevSecOps?**
 - DevSecOps Engineers
