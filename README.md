@@ -9,8 +9,8 @@ Note: Here stored practical examples of Development Security Operations (DevSecO
 
 **What to learn for DevSecOps?**
 - Understand the difference between DevOps vs DevSecOps
-- Have foundation in Linux/Unix For DevOps and Developers
-- Learn From the Scratch to Make own Ethical Hacking Tools - e.g., Python
+- Have a foundation in Linux/Unix For DevOps and Developers
+- Learn From the Scratch to Make own Ethical Hacking Tools - e.g., Python, Golang
 - Lear Cloud Services - e.g., AWS (Amazon Web Services), MS Azure, Google Cloud
 - Learn Continuous Integration And Continuous Delivery CI/CD - e.g., Jenkins
 - Learn Containerization Technology - e.g., Docker, Kubernetes
