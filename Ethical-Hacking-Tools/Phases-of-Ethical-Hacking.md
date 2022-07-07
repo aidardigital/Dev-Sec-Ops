@@ -1,4 +1,4 @@
-# The five phases of ethical hacking
+# The 5 phases of ethical hacking
 
 # 1. Reconnaissance
 Reconnaissance helps identify which attacks can be launched and how likely the organization’s systems fall vulnerable to those attacks.
