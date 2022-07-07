@@ -2,16 +2,15 @@
 Here I store Development Security Operations (DevSecOps) scripts and configurations
 
 **What to learn for DevSecOps?**
-- What is DevOps Vs DevSecOps
-- Linux/Unix For DevOps and Developers
-- Learn Python From the Scratch
-- Make your own Ethical Hacking Tools In Python
-- LearCloud Services - AWS (Amazon Web Services)
-- Learn Continuous Integration And Continuous Delivery CI/CD - Jenkins
-- Learn Containerization Technology - Docker
-- Learn IAC (Infrastructure As Code) - AWS Cloud Formation
-- Learn IAC (Infrastructure As Code) - Terraform
-- Learn Continuous Monitoring - AWS CloudWatch
+- Understand the difference between DevOps vs DevSecOps
+- Have foundation in Linux/Unix For DevOps and Developers
+- Learn From the Scratch to Make own Ethical Hacking Tools - e.g., Python
+- Lear Cloud Services - e.g., AWS (Amazon Web Services), MS Azure, Google Cloud
+- Learn Continuous Integration And Continuous Delivery CI/CD - e.g., Jenkins
+- Learn Containerization Technology - e.g., Docker, Kubernetes
+- Learn IAC (Infrastructure As Code) - e.g., AWS Cloud Formation
+- Learn IAC (Infrastructure As Code) - e.g., Terraform
+- Learn Continuous Monitoring - e.g., AWS CloudWatch
 - Learn Cyber Security Threats and the Best Practices
 - Learn Soft Skills for DevOps
 - Real World Scenarios with Practice Step-By-Step
