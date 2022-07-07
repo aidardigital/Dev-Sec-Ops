@@ -1,5 +1,5 @@
-#
-Practical examples of Development Security Operations (DevSecOps), i.e., source codes of ethical hacking, vulnerability scanning, penetration testing and threat analysis.
+# **About This Repo**
+Practical examples of Development Security Operations (DevSecOps), i.e., ethical hacking, vulnerability scanning, penetration testing and threat analysis.
 
 # **Introduction**
 
