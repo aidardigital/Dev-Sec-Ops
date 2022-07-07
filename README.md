@@ -1,5 +1,11 @@
 # Dev-Sec-Ops
-Here I store Development Security Operations (DevSecOps) scripts and configurations
+Note: Here stored practical examples of Development Security Operations (DevSecOps), e.g., scripts, configurations, source codes of tools etc.
+
+**Introduction**
+
+**DevOps** is a combination of software development and information technology operations that enables businesses to deliver applications at a faster pace. It brings together development and operations teams so there are fewer redundancies in the software development process.
+
+**DevSecOps** is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
 
 **What to learn for DevSecOps?**
 - Understand the difference between DevOps vs DevSecOps
@@ -17,12 +23,6 @@ Here I store Development Security Operations (DevSecOps) scripts and configurati
 
 **Requirements**
 - Eager to Learn and Patience !!!
-
-**Description**
-
-**DevOps** is a combination of software development and information technology operations that enables businesses to deliver applications at a faster pace. It brings together development and operations teams so there are fewer redundancies in the software development process.
-
-**DevSecOps** is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
 
 **Who might be interested in DevSecOps?**
 - DevSecOps Engineers
