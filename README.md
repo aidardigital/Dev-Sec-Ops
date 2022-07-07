@@ -1,5 +1,5 @@
 # Dev-Sec-Ops
-Note: Here stored practical examples of Development Security Operations (DevSecOps), e.g., scripts, configurations, source codes of tools etc.
+Note: Here stored practical examples of Development Security Operations (DevSecOps), e.g., scripts, configurations, source codes of ethical hacking, vulnerability scanning, penetration testing and threat analysis.
 
 **Introduction**
 
