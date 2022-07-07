@@ -1,13 +1,13 @@
 # Dev-Sec-Ops
 Note: Here stored practical examples of Development Security Operations (DevSecOps), e.g., scripts, configurations, source codes of ethical hacking, vulnerability scanning, penetration testing and threat analysis.
 
-**Introduction**
+# **Introduction**
 
 **DevOps** is a combination of software development and information technology operations that enables businesses to deliver applications at a faster pace. It brings together development and operations teams so there are fewer redundancies in the software development process.
 
 **DevSecOps** is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
 
-**What to learn for DevSecOps?**
+# **What to learn for DevSecOps?**
 - Understand the difference between DevOps vs DevSecOps
 - Have a foundation in Linux/Unix For DevOps and Developers
 - Learn From the Scratch to Make own Ethical Hacking Tools - e.g., Python, Golang
@@ -21,10 +21,10 @@ Note: Here stored practical examples of Development Security Operations (DevSecO
 - Learn Soft Skills for DevOps
 - Real World Scenarios with Practice Step-By-Step
 
-**Requirements**
+# **Requirements**
 - Eager to Learn and Patience !!!
 
-**Who might be interested in DevSecOps?**
+# **Who might be interested in DevSecOps?**
 - DevSecOps Engineers
 - DevOps Engineers
 - Cyber Security Engineers
