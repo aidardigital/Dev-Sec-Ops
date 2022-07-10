@@ -1,12 +1,12 @@
-# Linux Fundamentals
-- Linux Directory Structure Theory
-- The Shell Theory
-- Basic Linux Commands Theory + Hands-On
-- Working with Directories Theory + Hands-On
-- Listing Files and Understanding ls Output Theory + Hands-On
-- Links and Shortcuts in Linux Theory + Hands-On
-- File and Directory Permissions Theory + Hands-On
-- Finding Files and Directories Theory + Hands-On
-- Viewing Files and the Nano Editor Hands-On
-- Editing Files in Vi Theory + Hands-On
-- Deleting, Copying, Moving, and Renaming Files Hands-On
+# Fundamental Linux Skills
+- Linux Directory Structure
+- The Shell
+- Basic Linux Commands
+- Working with Directories
+- Listing Files and Understanding ls Output
+- Links and Shortcuts in Linux
+- File and Directory Permissions
+- Finding Files and Directories
+- Viewing Files and the Nano Editor
+- Editing Files in Vi Theory
+- Deleting, Copying, Moving, and Renaming Files
