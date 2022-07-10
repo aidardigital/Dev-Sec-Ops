@@ -23,7 +23,9 @@ A non login shell executes the following script to set the shell environment.
 
 # Check Login vs Non Login Shell
 To find the current shell is login shell or non login shell simply run the below command. See the results and find the different between them.
+
 - echo $0
+
 Login shell output will be -bash or -su.
 
 Non logins shell output will be bash or su
