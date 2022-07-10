@@ -16,6 +16,9 @@ Note: to be able to practice with me any Linux Distribution will do the job, no 
 - Bell Labs, frustrated by the size and complexity of Multics but not the aims, slowly pulled out of the project. Their last researchers to leave Multics – Ken Thompson, Dennis Ritchie, Doug McIlroy, and Joe Ossanna among others – decided to redo the work on a much smaller scale. In 1979, Dennis Ritchie described their vision for Unix.
 
 # Linux vs Unix
+- Linux is an operating system which is developed by Linus Torvalds in 1991. The name “Linux” originates from the Linux kernel. It is open-source and free to use the operating system. It is used for computer hardware and software, game development, mainframes, etc. It can run various client programs.
+- Unix is a portable, multi-tasking, a multi-user operating system developed by AT&T. It started as a one-man venture under the initiative of Ken Thompson of Bell Labs. It proceeded to turn out to become the most widely used operating systems. It is used in web servers, workstations, and PCs. Many business applications are accessible in it.
+  > Link: https://www.geeksforgeeks.org/linux-vs-unix/
 
 # GNU Linux
 - Linux is the kernel: the program in the system that allocates the machine's resources to the other programs that you run.
