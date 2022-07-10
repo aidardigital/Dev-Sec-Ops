@@ -42,10 +42,10 @@ Here are the Linux Directory Structure (Read Below for each one):
 
 # 9. /usr – User Programs
 - Contains binaries, libraries, documentation, and source-code for second level programs.
-/usr/bin contains binary files for user programs. If you can’t find a user binary under /bin, look under /usr/bin. For example: at, awk, cc, less, scp
-/usr/sbin contains binary files for system administrators. If you can’t find a system binary under /sbin, look under /usr/sbin. For example: atd, cron, sshd, useradd, userdel
-/usr/lib contains libraries for /usr/bin and /usr/sbin
-/usr/local contains users programs that you install from source. For example, when you install apache from source, it goes under /usr/local/apache2
+- /usr/bin contains binary files for user programs. If you can’t find a user binary under /bin, look under /usr/bin. For example: at, awk, cc, less, scp
+- /usr/sbin contains binary files for system administrators. If you can’t find a system binary under /sbin, look under /usr/sbin. For example: atd, cron, sshd, useradd, userdel
+- /usr/lib contains libraries for /usr/bin and /usr/sbin
+- /usr/local contains users programs that you install from source. For example, when you install apache from source, it goes under /usr/local/apache2
 
 # 10. /home – Home Directories
 - Home directories for all users to store their personal files.
