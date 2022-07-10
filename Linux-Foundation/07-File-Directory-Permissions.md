@@ -2,9 +2,10 @@ File and Directory Permissions
 
 # After executing the command <strong>ls -l</strong> we have the following:
 
-drwx------ 35 ubuntu ubuntu 1120 Dec 27 19:54 Desktop
--rwxrw-r-- 65 ubuntu ubuntu 1120 Dec 28 18:36 test.txt
-lrwxr-x--- 65 ubuntu ubuntu 1120 Dec 28 18:36 file.lnk
+- drwx------ 35 ubuntu ubuntu 1120 Dec 27 19:54 Desktop
+- -rwxrw-r-- 65 ubuntu ubuntu 1120 Dec 28 18:36 test.txt
+- lrwxr-x--- 65 ubuntu ubuntu 1120 Dec 28 18:36 file.lnk
+
 We will talk about each part from above (all the Values, Numbers , names , ... etc )
 
 As you can see the above we have three different types of file and the symbols (d , - , l)
