@@ -36,3 +36,8 @@ Examples of Development Security Operations (DevSecOps), e.g., vulnerability sca
 - Software Developers
 - Software Engineers
 - IT Managers / CISO
+
+# **Recommended Resources**
+- Ultimate DevSecOps - Real Life Scenarios by Musab Zayadneh
+- The StationX Cyber Security School - The Best Cyber Security Courses
+  > Link: https://courses.stationx.net/p/explorer
