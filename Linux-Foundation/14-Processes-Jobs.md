@@ -1,6 +1,6 @@
 Processes and Job Control Theory
 
-# Most Important Commands We Will Use :
+# Most Important Commands We Will Use:
 
 ps -e - Display all Processes
 
