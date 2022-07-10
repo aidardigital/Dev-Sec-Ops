@@ -8,7 +8,10 @@ Examples of Development Security Operations (DevSecOps), e.g., vulnerability sca
 **DevSecOps** is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
 
 # **What to learn for DevSecOps?**
-- Understand the difference between DevOps vs DevSecOps
+- Understand the difference between DevOps vs DevSecOps - e.g., Red Hat, Wikipedia, Atlassian etc.
+  > Link: https://www.redhat.com/en/topics/devops/what-is-devsecops
+  > Link: https://en.wikipedia.org/wiki/DevOps
+  > Link: https://www.atlassian.com/devops/what-is-devops
 - Have a foundation in Linux/Unix For DevOps and Developers
 - Learn From the Scratch to Make own Ethical Hacking Tools - e.g., Python, Golang
 - Lear Cloud Services - e.g., AWS (Amazon Web Services), MS Azure, Google Cloud
