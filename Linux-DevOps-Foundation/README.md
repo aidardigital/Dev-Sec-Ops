@@ -3,7 +3,6 @@
 - You already should have Linux Installed (WSL, VM, Live USB, Dual Boot, Cloud)
 - Usually used Ubuntu to practice with instructor, but can be used other distro
 
-Note: to be able to practice with me any Linux Distribution will do the job, no worries
 # Learn Introduction
 - History of Unix
 - What is Unix Vs Linux ?
@@ -29,19 +28,15 @@ Note: to be able to practice with me any Linux Distribution will do the job, no 
 # Linux Distributions
 - A Linux distribution (often abbreviated as distro) is an operating system made from a software collection that is based upon the Linux kernel and, often, a package management system.
 - Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices and personal computers to powerful supercomputers .
-
-Examples for Linux distribution :
-  > Ubuntu, Linux Mint, Arch Linux, Fedora, Kali Linux, SUSE Linux, Alpine Linux, Red Hat, Debian
-
-Source: Linux Distribution
-Link: https://en.wikipedia.org/wiki/Linux_distribution
+- Examples for Linux distribution: Ubuntu, Linux Mint, Arch Linux, Fedora, Kali Linux, SUSE Linux, Alpine Linux, Red Hat, Debian
+  > Link: https://en.wikipedia.org/wiki/Linux_distribution
 
 # Unix Architecture
-- **Kernel** − The kernel is the heart of the operating system. It interacts with the hardware and most of the tasks like memory management, task scheduling and file management.
-- **Shell** − The shell is the utility that processes your requests. When you type in a command at your terminal, the shell interprets the command and calls the program that you want. The shell uses standard syntax for all commands. C Shell, Bourne Shell and Korn Shell are the most famous shells which are available with most of the Unix variants.
-- **Commands and Utilities** − There are various commands and utilities which you can make use of in your day to day activities. cp, mv, cat and grep, etc. are few examples of commands and utilities. There are over 250 standard commands plus numerous others provided through 3rd party software. All the commands come along with various options.
-- **Files and Directories** − All the data of Unix is organized into files. All files are then organized into directories. These directories are further organized into a tree-like structure called the filesystem.
-  > Link: https://www.tutorialspoint.com/unix/unix-getting-started.htm
+- Kernel − The kernel is the heart of the operating system. It interacts with the hardware and most of the tasks like memory management, task scheduling and file management.
+- Shell − The shell is the utility that processes your requests. When you type in a command at your terminal, the shell interprets the command and calls the program that you want. The shell uses standard syntax for all commands. C Shell, Bourne Shell and Korn Shell are the most famous shells which are available with most of the Unix variants.
+- Commands and Utilities − There are various commands and utilities which you can make use of in your day to day activities. cp, mv, cat and grep, etc. are few examples of commands and utilities. There are over 250 standard commands plus numerous others provided through 3rd party software. All the commands come along with various options.
+- Files and Directories − All the data of Unix is organized into files. All files are then organized into directories. These directories are further organized into a tree-like structure called the filesystem.
+ > Link: https://www.tutorialspoint.com/unix/unix-getting-started.htm
 
 # Linux Fundamentals
 - Linux Directory Structure Theory
