@@ -1,4 +1,4 @@
-Here we learn about File and Directory Permissions
+File and Directory Permissions
 
 # After executing the command ls -l we have the following:
 - drwx------ 35 ubuntu ubuntu 1120 Dec 27 19:54 Desktop
