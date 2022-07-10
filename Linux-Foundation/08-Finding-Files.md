@@ -1,4 +1,4 @@
-Here we learn Finding Files and Directories Theory
+Finding Files and Directories Theory
 
 # Most Important Commands We Will Use :
 
