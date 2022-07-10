@@ -48,11 +48,19 @@ These permissions allow the file being executed to be executed with the privileg
 
 # Three special permissions: SUID(setuid) , SGID (setgid) and sticky bit:
 - SUID: is a special permission assigned to a file. These permissions allow the file being executed to be executed with the privileges of the owner. For example, if a file was owned by the root user and has the setuid bit set, no matter who executed the file it would always run with root user privileges.
+
 - SGID: When the Set Group ID bit is set, the executable is run with the authority of the group. For example, if a file was owned by the users’ group, no matter who executed that file it would always run with the authority of the user’s group.
+
 - sticky bit: When the sticky bit is set on a directory, only the root user, the owner of the directory, and the owner of a file can remove files within said directory.
+
 - chmod 0777 - Full permission but with no special Permission
+
 - chmod 4777 - Full permission but with setuid bit
+
 - chmod 2777 - Full permission but with setgid bit
+
 - chmod 1777 - Full permission but with sticky bit
+
 - chmod ugo+s - (s ) increase the Special Permission (setuid , setgid )
+
 - chmod ugo+t - (t) increase the Special Permission ( sticky bit)
