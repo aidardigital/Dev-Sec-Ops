@@ -30,7 +30,7 @@ In many systems you can find the GRUB configuration file at /boot/grub/grub.conf
 - splashimage=(hd0,0)/boot/grub/splash.xpm.gz
 - hiddenmenu
 - title CentOS (2.6.18-194.el5PAE)
-      -      root (hd0,0)
+      > - root (hd0,0)
       kernel /boot/vmlinuz-2.6.18-194.el5PAE ro root=LABEL=/
       initrd /boot/initrd-2.6.18-194.el5PAE.img
 
