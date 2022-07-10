@@ -8,7 +8,7 @@
 ~ - The Current User's Home Directory
 
 # Absolute Path vs Relative Path:
-absolute path is defined as specifying the location of a file or directory from the root directory(/).
+Absolute path is defined as specifying the location of a file or directory from the root directory(/).
 
 Relative path is defined as the path related to the present working directly.
 
