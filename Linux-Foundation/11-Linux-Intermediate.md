@@ -1,0 +1,13 @@
+# Intermediate Linux Skills
+- Input, Output, and Redirection
+- Comparing Files
+- Searching in Files and Using Pipes
+- Transferring and Copying Files over the Network
+- Shell Aliases
+- Environment Variables
+- Processes and Job Control
+- Scheduling Repeated Jobs with Cron
+- Users/Groups Management in Linux
+- Switching Users and Running Commands as Others
+- Shell History
+- Linux/Unix Disk and Storage
