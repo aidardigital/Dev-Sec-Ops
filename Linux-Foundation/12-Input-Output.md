@@ -3,7 +3,8 @@ Input Output and Redirection Theory
 # What is File Descriptor?
 In Unix and related computer operating systems, a file descriptor (FD) is an abstract indicator used to access a file or other input/output resource, such as a pipe or network socket. File descriptors form part of the POSIX application programming interface.
 
-# Input/Output Types - I/O Name Abbreviation File Descriptor
+# Input/Output Types
+I/O Name Abbreviation File Descriptor
 - Standard Input stdin 0
 - Standard Output stdout 1
 - Standard Error stderr 2
