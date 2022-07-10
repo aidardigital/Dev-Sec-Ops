@@ -15,7 +15,7 @@ Examples of Development Security Operations (DevSecOps), e.g., vulnerability sca
 - Have a foundation in Linux/Unix For DevOps and Developers - e.g., edx, Linux Foundation - Trainings etc.
   > Link: https://www.edx.org/school/linuxfoundationx
   > Link: https://training.linuxfoundation.org/announcements/interested-in-a-cloud-computing-career-this-roadmap-can-point-the-way/
-- Learn From the Scratch to Make own Ethical Hacking Tools - e.g., Python, Golang
+- Learn From the Scratch to Make Own Ethical Hacking Tools - e.g., Python, Golang
 - Lear Cloud Services - e.g., AWS (Amazon Web Services), MS Azure, Google Cloud
 - Learn Continuous Integration And Continuous Delivery CI/CD - e.g., Jenkins
 - Learn Containerization Technology - e.g., Docker, Kubernetes
