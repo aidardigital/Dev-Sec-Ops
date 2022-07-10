@@ -1,4 +1,4 @@
-Here we learn Viewing Files and the Nano Editor Theory
+Viewing Files and the Nano Editor Theory
 
 # Most Important Commands We Will Use :
 
