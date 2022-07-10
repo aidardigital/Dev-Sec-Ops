@@ -46,17 +46,13 @@ At this point, your system executes runlevel programs. At one point it would loo
 
 Modern Linux systems use systemmd to choose a run level instead.
 
-Run level 0 is matched by poweroff.target (and runlevel0.target is a symbolic link to poweroff.target).
+- Run level 0 is matched by poweroff.target (and runlevel0.target is a symbolic link to poweroff.target).
+- Run level 1 is matched by rescue.target (and runlevel1.target is a symbolic link to rescue.target).
+- Run level 3 is emulated by multi-user.target (and runlevel3.target is a symbolic link to multi-user.target).
+- Run level 5 is emulated by graphical.target (and runlevel5.target is a symbolic link to graphical.target).
+- Run level 6 is emulated by reboot.target (and runlevel6.target is a symbolic link to reboot.target).
+- Emergency is matched by emergency.target.
 
-Run level 1 is matched by rescue.target (and runlevel1.target is a symbolic link to rescue.target).
-
-Run level 3 is emulated by multi-user.target (and runlevel3.target is a symbolic link to multi-user.target).
-
-Run level 5 is emulated by graphical.target (and runlevel5.target is a symbolic link to graphical.target).
-
-Run level 6 is emulated by reboot.target (and runlevel6.target is a symbolic link to reboot.target).
-
-Emergency is matched by emergency.target.
 systemmd will then begin executing runlevel programs.
 
 # 6. Runlevel programs
@@ -64,13 +60,14 @@ Depending on which Linux distribution you have installed, you may be able to see
 
 These are known as runlevel programs, and are executed from different directories depending on your run level. Each of the 6 runlevels described above has its own directory:
 
-Run level 0 – /etc/rc0.d/
-Run level 1 – /etc/rc1.d/
-Run level 2 – /etc/rc2.d/
-Run level 3 – /etc/rc3.d/
-Run level 4 – /etc/rc4.d/
-Run level 5 – /etc/rc5.d/
-Run level 6 – /etc/rc6.d/
+- Run level 0 – /etc/rc0.d/
+- Run level 1 – /etc/rc1.d/
+- Run level 2 – /etc/rc2.d/
+- Run level 3 – /etc/rc3.d/
+- Run level 4 – /etc/rc4.d/
+- Run level 5 – /etc/rc5.d/
+- Run level 6 – /etc/rc6.d/
+
 Note that the exact location of these directories varies from distribution to distribution.
 
 If you look in the different run level directories, you'll find programs that start with either an "S" or "K" for startup and kill, respectively. Startup programs are executed during system startup, and kill programs during shutdown.
