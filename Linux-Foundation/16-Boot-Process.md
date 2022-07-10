@@ -30,9 +30,9 @@ In many systems you can find the GRUB configuration file at /boot/grub/grub.conf
 - splashimage=(hd0,0)/boot/grub/splash.xpm.gz
 - hiddenmenu
 - title CentOS (2.6.18-194.el5PAE)
-space>root (hd0,0)
-space>kernel /boot/vmlinuz-2.6.18-194.el5PAE ro root=LABEL=/
-space>initrd /boot/initrd-2.6.18-194.el5PAE.img
+- space>root (hd0,0)
+- space>kernel /boot/vmlinuz-2.6.18-194.el5PAE ro root=LABEL=/
+- space>initrd /boot/initrd-2.6.18-194.el5PAE.img
 
 # 4. Kernel
 The kernel is often referred to as the core of any operating system, Linux included. It has complete control over everything in your system.
