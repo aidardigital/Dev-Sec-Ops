@@ -42,3 +42,8 @@ Examples of Development Security Operations (DevSecOps), e.g., vulnerability sca
   > Link: https://courses.stationx.net/p/explorer
 - Ultimate DevSecOps - Real Life Scenarios by Musab Zayadneh
   > Link: https://www.udemy.com/course/ultimate-devsecops-with-real-world-scenarios/
+- The Linux Foundation Training Courses for Cloud Computing Career
+  > Link: https://training.linuxfoundation.org/full-catalog/
+- The Cloud Native Computing Foundation (CNCF) Training Courses
+  > Link: https://www.cncf.io/certification/training/
+
