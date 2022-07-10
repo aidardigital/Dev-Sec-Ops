@@ -1,5 +1,5 @@
 # Important Notes
-- Use approach is like this : Read Theory -> Practice with the Hands-On -> Read theory again
+- Use approach is like this: Read Theory -> Practice Hands-On -> Do Read Theory
 - You already should have Linux Installed (WSL, VM, Live USB, Dual Boot, Cloud)
 - Usually used Ubuntu to practice with instructor, but can be used other distro
 
