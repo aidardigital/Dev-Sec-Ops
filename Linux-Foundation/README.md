@@ -37,16 +37,3 @@
 - Commands and Utilities − There are various commands and utilities which you can make use of in your day to day activities. cp, mv, cat and grep, etc. are few examples of commands and utilities. There are over 250 standard commands plus numerous others provided through 3rd party software. All the commands come along with various options.
 - Files and Directories − All the data of Unix is organized into files. All files are then organized into directories. These directories are further organized into a tree-like structure called the filesystem.
   > Link: https://www.tutorialspoint.com/unix/unix-getting-started.htm
-
-# Linux Fundamentals
-- Linux Directory Structure Theory
-- The Shell Theory
-- Basic Linux Commands Theory + Hands-On
-- Working with Directories Theory + Hands-On
-- Listing Files and Understanding ls Output Theory + Hands-On
-- Links and Shortcuts in Linux Theory + Hands-On
-- File and Directory Permissions Theory + Hands-On
-- Finding Files and Directories Theory + Hands-On
-- Viewing Files and the Nano Editor Hands-On
-- Editing Files in Vi Theory + Hands-On
-- Deleting, Copying, Moving, and Renaming Files Hands-On
