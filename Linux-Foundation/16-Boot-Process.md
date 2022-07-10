@@ -25,19 +25,14 @@ The splash screen will wait a few seconds for you to select and option. If you d
 In many systems you can find the GRUB configuration file at /boot/grub/grub.conf or /etc/grub.conf. Here's an example of a simple grub.conf file:
 
 #boot=/dev/sda
-
 default=0
-
 timeout=5
-
 splashimage=(hd0,0)/boot/grub/splash.xpm.gz
-
 hiddenmenu
-
 title CentOS (2.6.18-194.el5PAE)
-      root (hd0,0)
-      kernel /boot/vmlinuz-2.6.18-194.el5PAE ro root=LABEL=/
-      initrd /boot/initrd-2.6.18-194.el5PAE.img
+space>root (hd0,0)
+space>kernel /boot/vmlinuz-2.6.18-194.el5PAE ro root=LABEL=/
+space>initrd /boot/initrd-2.6.18-194.el5PAE.img
 
 # 4. Kernel
 The kernel is often referred to as the core of any operating system, Linux included. It has complete control over everything in your system.
