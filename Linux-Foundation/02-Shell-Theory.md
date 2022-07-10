@@ -13,7 +13,7 @@ Examples:
 - root@ip-192-168-1-206:~$
 
 # What is This Tilde (~) ?
-The tilde (~) is a Linux "shortcut" to denote a user's home directory. Thus tilde slash (~/) is the beginning of a path to a file or directory below the user's home directory.
+The tilde ("~") is a Linux "shortcut" to denote a user's home directory. Thus tilde slash ("~/") is the beginning of a path to a file or directory below the user's home directory.
 
 For example, for the ubuntu user, file /home/ubuntu/test.file can also be denoted by ~/test.file
 
