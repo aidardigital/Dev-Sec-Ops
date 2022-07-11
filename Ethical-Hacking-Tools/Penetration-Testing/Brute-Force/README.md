@@ -25,3 +25,5 @@ Credential stuffing: if a hacker has a username-password combo that works for on
 
 # IMPORTANT NOTE !!!
 If you face this error "ModuleNotFoundError: No module named" then just download it using pip3 or pip or just google it you will find out it is something easy to solve no worries ^^ For Example: pip3 install requests and so on
+
+Kali Linux has rockyou.txt with above 140 MBs of passwords samples file for use during brute force attack penetration test to identify vulnerability then to remediate.
