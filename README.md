@@ -1,6 +1,6 @@
 # **About This Repo**
 
-Important Note: It is educational. Use source codes as-is at your own risk by own liability. Understand what are you doing. Limit any impact.
+Note: It is for educational purpose. Use source codes as-is at your own risk by own liability. Understand what are you doing. Limit any impact.
 
 Examples of Development Security Operations (DevSecOps), e.g., vulnerability scanning, penetration testing, threat analysis, tools, techniques.
 
