@@ -1,6 +1,7 @@
 # **About This Repo** 
 
-Note: It is for educational purpose. Use source codes as-is at your own risk by own liability. Understand what are you doing. Limit any impact.
+Note: It is for educational purposes. Use source codes as-is at your own risk by own liability. Understand what are you doing. Limit any impact.
+Be ethical. Do legal. Test on your controlled environment. Obtain written permission, if you do on the assets of others, e.g., providers, hosts etc.
 
 All the needed for a Hacker, Pentester or Cyber Security Engineer, but not for Web Development.
 
