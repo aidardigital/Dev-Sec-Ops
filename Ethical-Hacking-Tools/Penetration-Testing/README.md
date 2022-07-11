@@ -26,11 +26,11 @@ Security issues that the penetration test uncovers should be reported to the sys
 
 Penetration tests are a component of a full security audit. For example, the Payment Card Industry Data Security Standard requires penetration testing on a regular schedule, and after system changes. Penetration testing also can support risk assessments as outlined in the NIST Risk Management Framework SP 800-53.
 
-# Standard Frameworks and Methodologies
+# Standards, Frameworks and Methodologies
 
 Several standard frameworks and methodologies exist for conducting penetration tests. These include the Open Source Security Testing Methodology Manual (OSSTMM), the Penetration Testing Execution Standard (PTES), the NIST Special Publication 800-115, the Information System Security Assessment Framework (ISSAF) and the OWASP Testing Guide.
 
-# Penentration Test and Web Applications Security
+# Penentration Test and Web Application Security
 
 A penetration test, also known as a pen test, is a simulated cyber attack against your computer system to check for exploitable vulnerabilities. In the context of web application security, penetration testing is commonly used to augment a web application firewall (WAF).
 
